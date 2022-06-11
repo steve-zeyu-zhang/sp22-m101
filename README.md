@@ -23,7 +23,6 @@ However, if you have questions about the administration of the course, you're we
 
 
 ### Lecture Notes
-
-
+[Phy 06/11/2022](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/6.11.png)
 
 
