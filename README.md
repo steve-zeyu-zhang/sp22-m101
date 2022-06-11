@@ -19,7 +19,7 @@ Feel free to post your questions to the newly added issues under each lecture. *
 However, if you have questions about the administration of the course, you're welcome to send me an email :)
 
 ### Recordings
-[Phy 06/11/2022](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EbmlRLfPX59Jo2W92McMqtAB0yiXrost7Yrgua9q4UaAIw?e=k4YYd3)
+[Phy 06/11/2022](hhttps://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ES7HfQAGOhpArIFOQh6OYVEB_rCUFj6en5KGqT6QGOGq4Q?e=LKKVUe)
 
 
 ### Lecture Notes
