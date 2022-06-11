@@ -1,5 +1,5 @@
 ## M101AB/P101A/CH101AB/E101A Fundamental Mathematics and Natural Science　
-**Spring 2022**
+**Spring/Summer 2022**
 
 ### You are here
 Welcome to Fundamental Mathematics and Natural Science. The webpage is currently being updated for 2022. Some links still work but others may not but will be fixed. Course material will become available gradually as the course progresses.
