@@ -21,7 +21,7 @@ However, if you have questions about the administration of the course, you're we
 ### Recordings
 [Phy 06/11/2022](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ES7HfQAGOhpArIFOQh6OYVEB_rCUFj6en5KGqT6QGOGq4Q?e=LKKVUe)
 
-[Phy 06/11/2022](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EWU1HwqXH-FBs8h_xbH98BMBmFpattenSgSYtWU3QltVcQ?e=0AhRRv)
+[Phy 06/12/2022](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EWU1HwqXH-FBs8h_xbH98BMBmFpattenSgSYtWU3QltVcQ?e=0AhRRv)
 
 
 ### Lecture Notes
