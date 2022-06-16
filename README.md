@@ -4,7 +4,7 @@
 ### You are here
 Welcome to Fundamental Mathematics and Natural Science. The webpage is currently being updated for 2022. Some links still work but others may not but will be fixed. Course material will become available gradually as the course progresses.
 
-Please note that courses will be taught in Mandarian and lecture notes and recordings would be available shortly after each lecture. You could use these materials for revision if there is something you are still unversed in.
+Please note that courses will be taught in Mandarin and lecture notes and recordings would be available shortly after each lecture. You could use these materials for revision if there is something you are still unversed in.
 
 This course will run in hybrid mode this semester 1 2022
 
