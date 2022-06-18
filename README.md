@@ -23,7 +23,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/12/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EWU1HwqXH-FBs8h_xbH98BMBmFpattenSgSYtWU3QltVcQ?e=0AhRRv)
 
-[MA 6/18/22 (1)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0618.png)
+[MA 6/18/22 (1)](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EV1f4DK2D7NHvwrHwHZmW6MBxeIDIk3axJzmePYCTN54-Q?e=3GT3vG)
 [MA 6/18/22 (2)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0618.png)
 [MA 6/18/22 (3)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0618.png)
 
