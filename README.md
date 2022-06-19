@@ -36,7 +36,7 @@ However, if you have questions about the administration of the course, you're we
 
 [MA 6/18/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0618.png)
 
-[Phy 6/10/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EZbF95mhO6FPmJCdkZL6u9EB1Uj8Hl2ZM6NTM7kbSfRrnw?e=R3hP7V)
+[Phy 6/10/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0619.png)
 
 ### Worksheet
 See the repo.
