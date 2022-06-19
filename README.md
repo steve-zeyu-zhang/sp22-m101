@@ -27,12 +27,16 @@ However, if you have questions about the administration of the course, you're we
 [MA 6/18/22 (2)](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/Edj8jEaEYj9FuIgU4xFERa0BY5hHj08Vmp8z5I-YRFcTnw?e=JbIZNJ)
 [MA 6/18/22 (3)](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EZbF95mhO6FPmJCdkZL6u9EB1Uj8Hl2ZM6NTM7kbSfRrnw?e=R3hP7V)
 
+[Phy 6/10/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/Eed79GrZh_dNq-3B4ApAQAMBXwdWmmNfqQSdX9WaFSaoMA?e=8Cx5A2)
+
 ### Lecture Notes
 [Phy 6/11/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0611.png)
 
 [Phy 6/12/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0612.png)
 
 [MA 6/18/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0618.png)
+
+[Phy 6/10/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EZbF95mhO6FPmJCdkZL6u9EB1Uj8Hl2ZM6NTM7kbSfRrnw?e=R3hP7V)
 
 ### Worksheet
 See the repo.
