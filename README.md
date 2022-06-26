@@ -38,7 +38,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/19/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0619.png)
 
-### Worksheet
-See the repo.
+[Phy 6/26/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0626.png)
+
 
 
