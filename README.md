@@ -47,9 +47,8 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/26/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0626.png)
 
-[Phy 6/29/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(1).png)
-
-[Phy 6/29/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(2).png)
+[Phy 6/29/22 (1)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(1).png)
+[(2)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(2).png)
 
 
 
