@@ -32,6 +32,10 @@ However, if you have questions about the administration of the course, you're we
 [Phy 6/26/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EacjE3RD8YVOiaWkXNwwlI8BKnoN5p49DC4rKyaa43JONQ?e=kcIJaZ)
 
 
+
+
+
+
 ### Lecture Notes
 [Phy 6/11/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0611.png)
 
@@ -42,6 +46,10 @@ However, if you have questions about the administration of the course, you're we
 [Phy 6/19/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0619.png)
 
 [Phy 6/26/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0626.png)
+
+[Phy 6/29/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(1).png)
+
+[Phy 6/29/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(2).png)
 
 
 
