@@ -31,7 +31,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/26/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EacjE3RD8YVOiaWkXNwwlI8BKnoN5p49DC4rKyaa43JONQ?e=kcIJaZ)
 
-[Phy 6/29/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EQ0SKRXlX4NMs1ysKahRjrEB2ZGCSap6Rx0ss1B1TFlihw?e=14GHRt)
+[Phy 6/28/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EQ0SKRXlX4NMs1ysKahRjrEB2ZGCSap6Rx0ss1B1TFlihw?e=grR4Gj)
 
 
 
@@ -48,7 +48,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/26/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0626.png)
 
-[Phy 6/29/22 (1)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(1).png)
+[Phy 6/28/22 (1)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(1).png)
 [(2)](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629%20(2).png)
 
 
