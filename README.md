@@ -56,4 +56,8 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/29/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0629.png)
 
+[Phy 6/30/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0630%20(1).png)
+[ MA 6/30/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0630%20(2).png)
+
+
 
