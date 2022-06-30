@@ -35,7 +35,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Phy 6/29/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ESrG7N7iqq9MtQ39bVXv63EBf3TFMZIYhly4E0CEtVocrw?e=eq1uf6)
 
-[Phy 6/30/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ETqoQNAHoGtKlUyCHlZSSZ8BSeAiIQuOEnlsDjqxoUAk6w?e=KC93zn)
+[Phy & MA 6/30/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ETqoQNAHoGtKlUyCHlZSSZ8BSeAiIQuOEnlsDjqxoUAk6w?e=KC93zn)
 
 
 
