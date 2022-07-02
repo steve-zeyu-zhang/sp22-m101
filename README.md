@@ -61,3 +61,41 @@ However, if you have questions about the administration of the course, you're we
 
 
 
+
+### Worksheets 练习题
+
+[Set 集合](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/set)
+
+[Logic 逻辑](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/logic)
+
+[Function 函数](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/function)
+
+[Trigonometric Function 三角函数](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/trig)
+
+[Derivative 导数](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/derivative)
+
+[Calculus 微积分](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/calculus)
+
+[Sequence 数列](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/sequence)
+
+[Statistics & Probability 统计与概率](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/stats)
+
+[Complex Number 复数](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/complex)
+
+[Counting 计数原理](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/counting)
+
+[Algorithm 算法](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/algo)
+
+[Reasoning & Proof 推理与证明](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/proof)
+
+[Inequality 不等式](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/inequality)
+
+[Vector 向量](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/vector)
+
+[3D Geometry 立体几何](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/3D%20geo)
+
+[Analytic Geometry 解析几何](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/analytic%20geo)
+
+[Parametric Equation 参数方程](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/para)
+
+
