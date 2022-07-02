@@ -62,7 +62,7 @@ However, if you have questions about the administration of the course, you're we
 
 
 
-### Worksheets 练习题
+### Math Worksheets 数学练习题
 
 [Set 集合](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/set)
 
