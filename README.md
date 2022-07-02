@@ -18,7 +18,7 @@ Feel free to post your questions to the newly added issues under each lecture. *
 
 However, if you have questions about the administration of the course, you're welcome to send me an email :)
 
-### Recordings
+### Recordings 回放
 [Phy 6/11/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ES7HfQAGOhpArIFOQh6OYVEB_rCUFj6en5KGqT6QGOGq4Q?e=LKKVUe)
 
 [Phy 6/12/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EWU1HwqXH-FBs8h_xbH98BMBmFpattenSgSYtWU3QltVcQ?e=0AhRRv)
@@ -40,7 +40,7 @@ However, if you have questions about the administration of the course, you're we
 
 
 
-### Lecture Notes
+### Lecture Notes 笔记
 [Phy 6/11/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0611.png)
 
 [Phy 6/12/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0612.png)
