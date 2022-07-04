@@ -41,7 +41,9 @@ However, if you have questions about the administration of the course, you're we
 
 [CH 7/3/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EZVEG2GNVKpAqllpF5fKR7oBx6kgl8F28bhYRgiAP0c_Ag?e=wogFu7)
 
+[CH 7/4/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/Ec4FzwZmZQROi3rsOJpCrZEBsDLlhmC4ZGRXUB0AmKfbjQ?e=vg6E1n)
 
+[MA 7/5/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/Ea7_1TK8VE1GjWSAHb5IXwUBMcE2Ix1PNoOw2EA53BmmOg?e=jcTzE3)
 
 
 ### Lecture Notes 笔记
