@@ -39,6 +39,8 @@ However, if you have questions about the administration of the course, you're we
 
 [MA 7/2/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EaI_cokHuthDkMTpbi39JXwB-xb0ep_IepVRgbTnT2QJwQ?e=7eyHha)
 
+[CH 7/3/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/EZVEG2GNVKpAqllpF5fKR7oBx6kgl8F28bhYRgiAP0c_Ag?e=wogFu7)
+
 
 
 
