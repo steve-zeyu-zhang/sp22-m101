@@ -67,8 +67,9 @@ However, if you have questions about the administration of the course, you're we
 
 [CH 7/3/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0703.pdf)
 
+[CH 7/4/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0704.pdf)
 
-
+[MA 7/5/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0705.png)
 
 ### Math Worksheets 数学练习题
 
