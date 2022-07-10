@@ -109,4 +109,7 @@ However, if you have questions about the administration of the course, you're we
 
 [Parametric Equation 参数方程](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/para)
 
+### Resources 资源
+
+[Chemistry Pre-recorded lectures 化学知识点](https://www.bilibili.com/video/BV1h54y1V7db)
 
