@@ -109,7 +109,18 @@ However, if you have questions about the administration of the course, you're we
 
 [Parametric Equation 参数方程](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/para)
 
-### Resources 资源
+### Pre-recorded lectures
 
 [Chemistry Pre-recorded lectures 化学知识点](https://www.bilibili.com/video/BV1h54y1V7db)
+
+[Grammar 语法](https://www.bilibili.com/video/BV1XY411J7aG)
+
+[Substantive Clause 名词性从句](https://www.bilibili.com/video/BV1vJ411D7A7)
+
+[Attributive Clause 定语从句](https://www.bilibili.com/video/BV1ZE411C7kp)
+
+[Adverbial Clause 状语从句](https://www.bilibili.com/video/BV1cJ411t7Xx)
+
+[Complex Sentence 复合句](https://www.bilibili.com/video/BV1WJ411W7nH)
+
 
