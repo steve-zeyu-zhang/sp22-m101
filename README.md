@@ -45,6 +45,9 @@ However, if you have questions about the administration of the course, you're we
 
 [MA 7/5/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/Ea7_1TK8VE1GjWSAHb5IXwUBMcE2Ix1PNoOw2EA53BmmOg?e=jcTzE3)
 
+[CH 7/12/22](https://anu365-my.sharepoint.com/:v:/g/personal/u7394442_anu_edu_au/ESQsedbumxBKunNUBRLDbggBWhh4Uyb9U4llGHgChCrABw?e=Edt176)
+
+
 
 ### Lecture Notes 笔记
 [Phy 6/11/22](https://github.com/steve-zeyu-zhang/sp2022-M101/blob/main/notes/0611.png)
