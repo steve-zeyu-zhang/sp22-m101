@@ -76,6 +76,10 @@ However, if you have questions about the administration of the course, you're we
 
 [MA 7/5/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0705.png)
 
+[MA 7/15/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0715.png)
+
+
+
 ### Math Worksheets 数学练习题
 
 [Set 集合](https://github.com/steve-zeyu-zhang/sp22-m101/tree/main/worksheet/set)
