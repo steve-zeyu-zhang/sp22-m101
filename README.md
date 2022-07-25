@@ -80,6 +80,7 @@ However, if you have questions about the administration of the course, you're we
 
 [MA 7/15/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0715.png)
 
+[MA 7/24/22](https://github.com/steve-zeyu-zhang/sp22-m101/blob/main/notes/0724.png)
 
 
 ### Math Worksheets 数学练习题
