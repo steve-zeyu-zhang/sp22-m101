@@ -122,6 +122,8 @@ However, if you have questions about the administration of the course, you're we
 
 ### Pre-recorded lectures
 
+[Physics Pre-recorded lectures 物理知识点](https://www.bilibili.com/video/BV14B4y1u7Kv)
+
 [Chemistry Pre-recorded lectures 化学知识点](https://www.bilibili.com/video/BV1h54y1V7db)
 
 [Grammar 语法](https://www.bilibili.com/video/BV1XY411J7aG)
